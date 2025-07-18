@@ -101,9 +101,9 @@ Flatten → Dense(256) → Dropout → Dense(Num_Classes, softmax)
 
 ## 🙋‍♂️ About Me
 
-I'm **Neeraj**, a student from India passionate about machine learning and computer vision.
+I'm **Akshat**, a student from India passionate about machine learning and computer vision.
 
-📧 Email: [www.asneeraj@gmail.com](mailto:asneeraj@gmail.com)
+📧 Email: [www.paulakshat7864@gmail.com](mailto:paulakshat@gmail.com)
 📌 This project is a part of my AI/ML journey — feedback and forks are welcome!
 
 ---
